@@ -8,7 +8,7 @@
         "cakephp/cakephp": "4.*",
         "aws/aws-sdk-php": "^3.54",
         "lcobucci/jwt": "^3.2",
-        "powersystem/cakeapigateway": "1.0.01",
+        "powersystem/cakeapigateway": "1.0.03",
         "powersystem/cake-s3upload": "1.0.01",
         "muffin/footprint": "^3.0",
         "friendsofcake/search": "^6.2",
