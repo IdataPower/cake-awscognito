@@ -18,16 +18,13 @@
     },
     "autoload": {
         "psr-4": {
-            "PowerSystem\\CognitoSDK\\": "src"
+            "PowerSystem\\AwsCognito\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "PowerSystem\\CognitoSDK\\Test\\": "tests",
-            "PowerSystem\\CognitoSDK\\Test\\Fixture\\": "tests"
+            "PowerSystem\\AwsCognito\\Test\\": "tests",
+            "PowerSystem\\AwsCognito\\Test\\Fixture\\": "tests"
         }
-    },
-    "extra": {
-        "class": "My\\\\Plugin"
     }
 }

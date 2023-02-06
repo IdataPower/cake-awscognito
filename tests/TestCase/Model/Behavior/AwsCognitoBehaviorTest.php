@@ -106,7 +106,7 @@ class AwsCognitoBehaviorTest extends TestCase
         $rules = $this->Behavior->buildRules(new Event('eventName'), new RulesChecker());
         $entity = $this->table->newEntity([
             'aws_cognito_username' => 'test123',
-            'email' => 'lorenzo@evilcorp.com.ar'
+            'email' => 'lorenzo@PowerSystem.com.ar'
         ], [
             'validate' => false,
             'accessibleFields' => ['email' => true, 'aws_cognito_username' => true]
@@ -304,7 +304,7 @@ class AwsCognitoBehaviorTest extends TestCase
             ]
         ]);
         $require_verification = true;
-        $new_email = 'new.email@evilcorp.com.ar';
+        $new_email = 'new.email@PowerSystem.com.ar';
 
         //requires entity to be saved
         $this->expectExceptionMessage(__d('PowerSystem/CognitoSDK', 'Cannot edit email of an nonexistent user.'));
@@ -314,7 +314,7 @@ class AwsCognitoBehaviorTest extends TestCase
     public function testChangeEmailFailMissingUsername()
     {
         $require_verification = true;
-        $new_email = 'new.email@evilcorp.com.ar';
+        $new_email = 'new.email@PowerSystem.com.ar';
 
         //requires entity to have cognito username
         $entity = $this->table->find()->first();
@@ -326,7 +326,7 @@ class AwsCognitoBehaviorTest extends TestCase
     public function testChangeEmailSuccess()
     {
         $require_verification = true;
-        $new_email = 'new.email@evilcorp.com.ar';
+        $new_email = 'new.email@PowerSystem.com.ar';
         $entity = $this->table->find()->first();
 
         //changes email and calls CognitoClient->adminUpdateUserAttributes
@@ -377,7 +377,7 @@ class AwsCognitoBehaviorTest extends TestCase
                 'role' => true
             ]
         ]);
-        $new_email = 'new.email@evilcorp.com.ar';
+        $new_email = 'new.email@PowerSystem.com.ar';
 
         //requires entity to be saved
         $this->expectExceptionMessage(__d('PowerSystem/CognitoSDK', 'You must create the entity before trying to resend the invitation email'));
@@ -386,7 +386,7 @@ class AwsCognitoBehaviorTest extends TestCase
 
     public function testResendInvitationEmail()
     {
-        $new_email = 'new.email@evilcorp.com.ar';
+        $new_email = 'new.email@PowerSystem.com.ar';
         $entity = $this->table->find()->first();
 
         //changes email and calls CognitoClient->adminCreateUser

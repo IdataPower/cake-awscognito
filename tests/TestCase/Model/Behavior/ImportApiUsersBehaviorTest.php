@@ -34,7 +34,7 @@ class ImportApiUsersBehaviorTest extends TestCase
                 'first_name'           => 'Pepito',
                 'last_name'            => 'Edited Last Name',
                 'aws_cognito_username' => 'test123',
-                'email'                => 'lorenzo@evilcorp.com.ar',
+                'email'                => 'lorenzo@PowerSystem.com.ar',
                 'role'                 => 'user'
             ],
             [
@@ -58,7 +58,7 @@ class ImportApiUsersBehaviorTest extends TestCase
                 'first_name'           => 'Pepito',
                 'last_name'            => 'Edited Last Name',
                 'aws_cognito_username' => 'test123',
-                'email'                => 'lorenzo@evilcorp2.com.ar',
+                'email'                => 'lorenzo@PowerSystem2.com.ar',
                 'role'                 => 'user'
             ],
             [
@@ -122,7 +122,7 @@ class ImportApiUsersBehaviorTest extends TestCase
                 'first_name'           => 'Pepito',
                 'last_name'            => 'Edited Last Name',
                 'aws_cognito_username' => 'test123',
-                'email'                => 'lorenzo@evilcorp2.com.ar',
+                'email'                => 'lorenzo@PowerSystem2.com.ar',
                 'role'                 => 'user'
             ],
             [

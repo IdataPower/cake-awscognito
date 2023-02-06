@@ -146,7 +146,7 @@ class BaseCrudTraitTest extends BaseTraitTest
             ->with()
             ->will($this->returnValue([
                 'aws_cognito_username' => 'test_user_add',
-                'email'                => 'lorenzo@evilcorp.com.ar', //invalid email
+                'email'                => 'lorenzo@PowerSystem.com.ar', //invalid email
                 'first_name'           => 'test',
                 'last_name'            => 'user',
                 'role'                 => array_keys($this->ApiUsers->getRoles())[0]

@@ -125,7 +125,7 @@ class ApiUsersFixture extends TestFixture
             'id' => 1,
             'aws_cognito_id' => '9a2b43e4-e002-4b1a-89b3-13a30e59c9ce',
             'aws_cognito_username' => 'test123',
-            'email' => 'lorenzo@evilcorp.com.ar',
+            'email' => 'lorenzo@PowerSystem.com.ar',
             'active' => 1,
             'role' => 'user',
             'first_name' => 'Pepito',
