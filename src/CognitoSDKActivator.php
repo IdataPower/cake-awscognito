@@ -6,8 +6,6 @@ use Composer\Composer;
 use Composer\IO\IOInterface;
 use Composer\Plugin\PluginInterface;
 
-namespace PowerSystem\CognitoSDK;
-
 
 class CognitoSDKActivator implements PluginInterface
 {
