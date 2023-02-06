@@ -1,7 +1,7 @@
 {
-    "name": "PowerSystem/cake-cognito",
+    "name": "powersystem/cake-cognito",
     "description": "CognitoSDK plugin for CakePHP",
-    "type": "composer-plugin",
+    "type": "cakephp-plugin",
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {
