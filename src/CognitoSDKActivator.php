@@ -1,6 +1,6 @@
 <?php
 
-namespace phpDocumentor\Composer;
+namespace PowerSystem\CognitoSDK;
 
 use Composer\Composer;
 use Composer\IO\IOInterface;

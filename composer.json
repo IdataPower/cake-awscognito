@@ -30,6 +30,6 @@
         }
     },
     "extra": {
-        "class": "phpDocumentor\\Composer\\CognitoSDKActivator"
+        "class": "PowerSystem\\CognitoSDK\\CognitoSDKActivator"
     }
 }
