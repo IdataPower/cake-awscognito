@@ -30,6 +30,6 @@
         }
     },
     "extra": {
-        "class": "PowerSystem\\AwsCognito"
+        "class": "PowerSystem\\CognitoSDK"
     }
 }
