@@ -53,7 +53,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../cakeapigateway/composer.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cakeapigateway/src/Controller/Component/ApiRequestComponent.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="C:/idata-suite/repos/idata-suite-core-php8/composer.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/idata-suite/repos/idata-suite-core-php8/src/Controller/Api/V1/AppController.php">
           <value>
             <set />
           </value>
