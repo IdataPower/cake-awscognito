@@ -39,7 +39,7 @@ class ApiUsersTableTest extends TestCase
 		Configure::write('ApiUsers.roles', $roles);
 
 		$entity = $this->ApiUsers->newEntity([
-			'email' => 'lorenzo@evilcorp.com.ar'
+			'email' => 'lorenzo@PowerSystem.com.ar'
         ], [
             'accessibleFields' => ['email' => true]
         ]);
