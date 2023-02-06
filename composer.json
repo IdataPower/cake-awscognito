@@ -30,6 +30,6 @@
         }
     },
     "extra": {
-        "class": "PowerSystem\\CognitoSDK\\Auth\\AwsCognitoJwtAuthenticate"
+        "class": "phpDocumentor\\Composer\\CognitoSDKActivator"
     }
 }
