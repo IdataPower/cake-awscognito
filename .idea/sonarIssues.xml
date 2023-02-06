@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/composer.json">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/Auth/AwsCognitoJwtAuthenticate.php">
           <value>
             <set />
