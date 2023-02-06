@@ -30,6 +30,13 @@
         }
     },
     "extra": {
-        "class": "PowerSystem\\CognitoSDK"
+        "class": ["PowerSystem\\CognitoSDK\\Auth",
+            "PowerSystem\\CognitoSDK\\Controller",
+            "PowerSystem\\CognitoSDK\\Controller\\Api",
+            "PowerSystem\\CognitoSDK\\Controller\\AppController",
+            "PowerSystem\\CognitoSDK\\Controller",
+        "PowerSystem\\CognitoSDK\\Model\\Behavior",
+        "PowerSystem\\CognitoSDK\\Model\\Entity",
+        "PowerSystem\\CognitoSDK\\Model\\Table"]
     }
 }
