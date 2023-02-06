@@ -13,7 +13,7 @@
         "muffin/footprint": "^3.0",
         "friendsofcake/search": "^6.2",
         "ralouphie/mimey": "^1.0",
-        "composer-plugin-api": "^1.0"
+        "composer-plugin-api": "2.3.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5"
