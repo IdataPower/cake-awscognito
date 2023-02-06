@@ -3,7 +3,6 @@
     "description": "CognitoSDK plugin for CakePHP",
     "type": "composer-plugin",
     "license": "MIT",
-    "minimum-stability": "stable",
     "require": {
         "cakephp/cakephp": "4.*",
         "aws/aws-sdk-php": "^3.54",
@@ -27,5 +26,8 @@
             "PowerSystem\\CognitoSDK\\Test\\": "tests",
             "PowerSystem\\CognitoSDK\\Test\\Fixture\\": "tests"
         }
+    },
+    "extra": {
+        "class": "PowerSystem\\CognitoSDK\\"
     }
 }
