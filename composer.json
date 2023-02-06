@@ -28,5 +28,8 @@
             "PowerSystem\\AwsCognito\\Test\\": "tests",
             "PowerSystem\\AwsCognito\\Test\\Fixture\\": "tests"
         }
+    },
+    "extra": {
+        "class": "PowerSystem\\AwsCognito"
     }
 }
