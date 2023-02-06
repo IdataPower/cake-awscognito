@@ -7,7 +7,7 @@ use Composer\IO\IOInterface;
 use Composer\Plugin\PluginInterface;
 
 
-class CognitoSDKActivator implements PluginInterface, EventSubscriberInterface
+class CognitoSDKActivator implements PluginInterface
 {
     protected $composer;
     protected $io;
