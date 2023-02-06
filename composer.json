@@ -28,6 +28,6 @@
         }
     },
     "extra": {
-        "class": "PowerSystem\\CognitoSDK"
+        "class": "My\\\\Plugin"
     }
 }
