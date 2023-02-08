@@ -88,6 +88,11 @@
             <set />
           </value>
         </entry>
+        <entry key="C:/idata-suite/repos/idata-suite-core-php8/src/Controller/Api/V1/AdministrationsController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="C:/idata-suite/repos/idata-suite-core-php8/src/Controller/Api/V1/AppController.php">
           <value>
             <set />
@@ -104,6 +109,11 @@
           </value>
         </entry>
         <entry key="C:/idata-suite/repos/idata-suite-core/config/bootstrap.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/idata-suite/repos/suite-core/config/awscognito.php">
           <value>
             <set />
           </value>
