@@ -1,0 +1,49 @@
+
+E	php:S1172b"0Remove the unused function parameter "$options".(–ù…‹
+E	php:S1172l"0Remove the unused function parameter "$options".(–ù…‹
+E	php:S1172u"0Remove the unused function parameter "$options".(–ù…‹
+O	php:S1172½"4Remove the unused function parameter "$connnection".(Ñ¿ÓÓøÿÿÿÿ
+O	php:S1172ö"4Remove the unused function parameter "$connnection".(üƒ»…ıÿÿÿÿ
+d	php:S1142b"OReduce the number of returns of this function 4, down to the maximum allowed 3.(–ù…‹
+j	php:S1142ö"OReduce the number of returns of this function 4, down to the maximum allowed 3.(üƒ»…ıÿÿÿÿ
+j	php:S1142§"OReduce the number of returns of this function 7, down to the maximum allowed 3.( †Ë²şÿÿÿÿ
+j	php:S1142º"OReduce the number of returns of this function 7, down to the maximum allowed 3.(šàöíüÿÿÿÿ
+[php:S112¤"FDefine and throw a dedicated exception instead of using a generic one.(Ûç
+`php:S112¨"FDefine and throw a dedicated exception instead of using a generic one.(ÊŠˆ¬ùÿÿÿÿ
+[php:S112â"FDefine and throw a dedicated exception instead of using a generic one.(ªáöé
+`php:S112¼"FDefine and throw a dedicated exception instead of using a generic one.(ÊŠˆ¬ùÿÿÿÿ
+`php:S112Ü"FDefine and throw a dedicated exception instead of using a generic one.(ÊŠˆ¬ùÿÿÿÿ
+[php:S112ó"FDefine and throw a dedicated exception instead of using a generic one.(Œ‹‡¢
+`php:S112ø"FDefine and throw a dedicated exception instead of using a generic one.(ÎøêÊúÿÿÿÿ
+[php:S112Ò"FDefine and throw a dedicated exception instead of using a generic one.(ŠÑ³İ
+`php:S112˜"FDefine and throw a dedicated exception instead of using a generic one.(ÊŠˆ¬ùÿÿÿÿ
+`php:S112¦"FDefine and throw a dedicated exception instead of using a generic one.(ÊŠˆ¬ùÿÿÿÿ
+„	php:S41446"oUpdate this method so that its implementation is not identical to "validationResendInvitationEmail" on line 47.(á¯ûò
+f	php:S1192–"KDefine a constant instead of duplicating this literal "Attributes" 5 times.(Ñ÷µıÿÿÿÿ
+b	php:S1192Ï"LDefine a constant instead of duplicating this literal "UserPool.id" 8 times.(ÙÙ«Ô
+\	php:S1192È"FDefine a constant instead of duplicating this literal "Value" 7 times.(èú´Ï
+m	php:S1192J"XDefine a constant instead of duplicating this literal "PowerSystem/CognitoSDK" 30 times.(êó—¿
+e	php:S1192Å"ODefine a constant instead of duplicating this literal "UserAttributes" 3 times.(‰½ÏĞ
+i	php:S1192("TDefine a constant instead of duplicating this literal "createCognitoClient" 3 times.(í’å·
+a	php:S11922"GDefine a constant instead of duplicating this literal "email" 18 times.(ˆÔÁÊûÿÿÿÿ
+†	php:S1192¨"kDefine a constant instead of duplicating this literal "The user does not have a Cognito Username." 5 times.(ÊŠˆ¬ùÿÿÿÿ
+g	php:S1192d"MDefine a constant instead of duplicating this literal "change_email" 5 times.(ğ±ˆ£úÿÿÿÿ
+]	php:S1192J"HDefine a constant instead of duplicating this literal "message" 6 times.(êó—¿
+e	php:S1192Y"KDefine a constant instead of duplicating this literal "errorField" 5 times.(­œÛıÿÿÿÿ
+a	php:S1192Ï"KDefine a constant instead of duplicating this literal "UserPoolId" 7 times.(ÙÙ«Ô
+d	php:S1192Ğ"IDefine a constant instead of duplicating this literal "Username" 9 times.(ÀÙ½ÿÿÿÿÿ
+o	php:S1192B"UDefine a constant instead of duplicating this literal "aws_cognito_username" 7 times.(¯½İúÿÿÿÿ
+Dphp:S121c"0Add curly braces around the nested statement(s).(Ø‚Î
+Iphp:S121d"0Add curly braces around the nested statement(s).(ğ±ˆ£úÿÿÿÿ
+Dphp:S121e"0Add curly braces around the nested statement(s).(‚Ğ¸Æ
+Dphp:S121m"0Add curly braces around the nested statement(s).(Ø‚Î
+Dphp:S121n"0Add curly braces around the nested statement(s).(Æü¶Ó
+Dphp:S121v"0Add curly braces around the nested statement(s).(Ø‚Î
+Dphp:S121w"0Add curly braces around the nested statement(s).(ÃŸš¬
+Ephp:S121À"0Add curly braces around the nested statement(s).(¨ºÆ
+Ephp:S121ø"0Add curly braces around the nested statement(s).(¨ºÆ
+Jphp:S121Ç"0Add curly braces around the nested statement(s).(õÇîÿşÿÿÿÿ
+Ephp:S121Ë"0Add curly braces around the nested statement(s).( «±
+Jphp:S121æ"0Add curly braces around the nested statement(s).(ª²“şÿÿÿÿ
+Jphp:S121"0Add curly braces around the nested statement(s).(Ç—•„ıÿÿÿÿ
+Ephp:S121Ÿ"0Add curly braces around the nested statement(s).(¬ªš
